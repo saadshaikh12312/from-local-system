@@ -10,6 +10,9 @@ header {
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    border: 20px solid transparent;
 }
 
 h1 {
